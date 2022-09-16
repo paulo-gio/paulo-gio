@@ -1,7 +1,7 @@
 <p align="right">
-	<img alt="Paulo Gio's visitors" src="https://komarev.com/ghpvc/?username=paulo-gio&color=8c36db&style=flat&label=visitors" />
 	<img alt="Paulo Gio's followers" src="https://img.shields.io/github/followers/paulo-gio?color=blueviolet" />
 	<img alt="Paulo Gio's stars" src="https://img.shields.io/github/stars/paulo-gio?color=blueviolet" />
+    <img alt="Paulo Gio's visitors" src="https://komarev.com/ghpvc/?username=paulo-gio&color=8c36db&style=flat&label=visitors" />
 </p>
 
 [![Image header with background image of a tech image, animated. Link to Paulo Gio's linkedin profile](img/BCT2.gif)](https://www.linkedin.com/in/paulinhogiovannini/)
