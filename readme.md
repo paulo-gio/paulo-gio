@@ -4,9 +4,9 @@
 	<img alt="Paulo Gio's stars" src="https://img.shields.io/github/stars/paulo-gio?color=blueviolet" />
 </p>
 
-[![Poster with background image of a tech image, animated. Link to Paulo Gio's linkedin profile](img/BCT2.gif)](https://www.linkedin.com/in/paulinhogiovannini/)
+[![Image header with background image of a tech image, animated. Link to Paulo Gio's linkedin profile](img/BCT2.gif)](https://www.linkedin.com/in/paulinhogiovannini/)
 
-# Hello there! <img src="img/hi.gif" width="30px">
+# Hello there! <img src="https://thumbs.gfycat.com/RegalOldClumber-size_restricted.gif" width="30px">
 
 ### Thanks for checking out my profile!🖖
 
@@ -14,7 +14,6 @@
 
 I am always keen to learn something new, so drop a line if you want to help out in any way, on any of my very few public repositories.
 
-<br>
 <br>
 <br>
 
