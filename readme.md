@@ -10,7 +10,7 @@
 
 ### Thanks for checking out my profile!🖖
 
-🔎 I'm an enthusiastic self-taught and passionate about technology. 💻 I'm a Junior Full Stack Developer, Video Designer and Software Engineering student, Web3, blockchain and crypto stuff translator and researcher and all things technology aficionado.🌀
+🔎 I'm an enthusiastic self-taught and passionate about technology. 💻 I'm a Full Stack Developer, Video Designer and Software Engineering student, Web3, blockchain and crypto translator and researcher, and all things technology aficionado.🌀
 
 🖥 I am currently a cadet at [École 42](https://www.42sp.org.br/), and if you wish to collaborate in any way, say hello!🤞
 
