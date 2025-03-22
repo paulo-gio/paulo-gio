@@ -19,19 +19,35 @@ I am always keen to learn something new, so drop a line if you want to help out 
 <br>
 <br>
 
-| [![Paulo Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-gio&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/paulo-gio?tab=repositories) | [![Paulo Gio's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-gio&layout=compact&hide_border=true&theme=jolly)](https://github.com/paulo-gio?tab=repositories) |
-|:-:|:-:|
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/paulo-gio?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=paulo-gio&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/paulo-gio?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-gio&layout=compact&hide_border=true&theme=jolly" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulo-gio&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulo-gio&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulo-gio&theme=dracula)](https://git.io/streak-stats)
 
 ## 🛠️ Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
