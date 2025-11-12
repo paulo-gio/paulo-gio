@@ -8,24 +8,7 @@
 
 # Paulo Gio
 
-**Full Stack Developer | Software Engineering Student | Blockchain & Web3 Researcher**
-
----
-
-### About
-Self-taught developer with a strong focus on web technologies, backend architecture, and blockchain integration.  
-Currently a cadet at [École 42](https://www.42sp.org.br/), developing skills in C, algorithms, and systems programming.  
-Open to collaboration on open-source and research-oriented projects.
-
----
-
-### Tech Stack
-
-**Languages:**  
-JavaScript · TypeScript · Python · C · Solidity  
-
-**Frameworks & Tools:**  
-React · Node.js · Express · Docker · PostgreSQL · Git · VS Code
+**Full Stack Developer | Software Engineer | IA & Web3**
 
 ---
 
